@@ -1,0 +1,28 @@
+{
+  "teachers": [
+    {
+      "id": "1",
+      "name": "vivek",
+      "city": "agarwal"
+    },
+    {
+      "id": "3",
+      "name": "modi",
+      "city": "Delhi"
+    }
+  ],
+
+  "students": [
+    {
+      "id": "1",
+      "name": "Aman",
+      "city": "pune"
+    },
+    {
+      "id": "3",
+      "name": "yash",
+      "city": "sharma"
+    }
+  ]
+
+}
